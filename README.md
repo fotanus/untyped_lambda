@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+It is very simple. Check the [spec file](https://github.com/fotanus/untyped_lambda/blob/master/spec/untyped_lambda_spec.rb) for examples
 
 ## Development
 
